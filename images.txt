@@ -1,3 +1,4 @@
 temporalio/auto-setup:1.24.2
 temporalio/admin-tools:1.24.2-tctl-1.18.1-cli-0.13.0
 temporalio/ui:2.26.2
+golang:1.22.5-bullseye
