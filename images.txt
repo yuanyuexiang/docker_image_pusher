@@ -6,3 +6,4 @@ ubuntu:24.04
 nginx:1.27-alpine3.19
 jenkins/jenkins:2.452.2-lts-alpine
 beevelop/cordova:nightly
+ubuntu:22.04
