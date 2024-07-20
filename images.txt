@@ -10,3 +10,5 @@ ubuntu:22.04
 gradle:8.9.0-jdk11-alpine
 gradle:8.9.0-jdk11-jammy
 maven:3.9.8-eclipse-temurin-22-jammy
+node:22.5.1-bullseye-slim
+node:22.5.1-bullseye
