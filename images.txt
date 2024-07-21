@@ -13,4 +13,5 @@
 #node:22.5.1-bullseye-slim
 #node:22.5.1-bullseye
 #docker:26.1.4-dind-alpine3.20
-jenkins/jenkins:2.468-alpine-jdk17
+#jenkins/jenkins:2.468-alpine-jdk17
+jenkins/agent:latest-alpine-jdk17
