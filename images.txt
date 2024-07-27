@@ -16,3 +16,4 @@ gradle:8.9.0-jdk17-jammy
 #docker:26.1.4-dind-alpine3.20
 #jenkins/jenkins:2.468-alpine-jdk17
 jenkins/agent:latest-alpine-jdk17
+gogs/gogs:0.12.11
