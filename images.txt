@@ -9,11 +9,12 @@
 #ubuntu:22.04
 #gradle:8.9.0-jdk11-alpine
 #gradle:8.9.0-jdk11-jammy
-gradle:8.9.0-jdk17-jammy
+#gradle:8.9.0-jdk17-jammy
 #maven:3.9.8-eclipse-temurin-22-jammy
 #node:22.5.1-bullseye-slim
 #node:22.5.1-bullseye
 #docker:26.1.4-dind-alpine3.20
 #jenkins/jenkins:2.468-alpine-jdk17
-jenkins/agent:latest-alpine-jdk17
-gogs/gogs:0.12.11
+#jenkins/agent:latest-alpine-jdk17
+#gogs/gogs:0.12.11
+emqx/emqx:5.7.1
