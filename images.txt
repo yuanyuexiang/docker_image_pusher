@@ -18,3 +18,4 @@
 #jenkins/agent:latest-alpine-jdk17
 #gogs/gogs:0.12.11
 emqx/emqx:5.7.1
+traefik:v3.1.1
